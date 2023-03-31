@@ -1,0 +1,4 @@
+baseURL = 'https://yabzhang.github.io/'
+languageCode = 'zh-cn'
+title = 'yabinzhang blog'
+theme = 'nostyleplease'
