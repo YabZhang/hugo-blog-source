@@ -7,24 +7,23 @@ on:
 
 jobs:
   build-deploy:
-    runs-on: macos-latest
+    runs-on: ubuntu-22.04
+    permissions:
+      contents: write
     steps:
     - name: Git checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
       with:
+        submodules: recursive
         fetch-depth: 0
-
-    - name: Update theme
-      run: git submodule update --init --recursive
 
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
-        hugo-version: '0.111.3'
-        extended: true
+        hugo-version: 'latest'
 
     - name: Build
-      run: hugo  --enableGitInfo --minify
+      run: hugo --minify
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
