@@ -1,0 +1,59 @@
+[[entries]]
+title = "About"
+
+  [[entries.entries]]
+  title = "He/Him|UTC+8|Coder|MangaFan||Hungry&Foolish"
+  [[entries.entries]]
+  title = "Email:\t<a href='mailto:yabzhang2015@gmail.com'>yabzhang2015@gmail.com</a>"
+  [[entries.entries]]
+  title = "Github:\t<a href='https://github.com/yabzhang'>github.com/yabzhang</a>"
+  [[entries.entries]]
+  title = "Motto:\tDon't go gentle into that good night!"
+
+
+[[entries]]
+title = "Index"
+
+  [[entries.entries]]
+  title = "Series"
+  url = "/series/"
+
+  [[entries.entries]]
+  title = "Categories"
+  url = "/categories/"
+
+  [[entries.entries]]
+  title = "Tags"
+  url = "/tags/"
+
+[[entries]]
+title = "Posts"
+
+  [entries.post_list]
+  limit = 5
+  section = "posts"
+  show_more = true
+  show_more_text = "See more posts..."
+  show_more_url = "/posts/"
+
+[[entries]]
+title = "RSS"
+url = "index.xml"
+
+# [[entries]]
+# title = "another list"
+# 
+#   [[entries.entries]]
+#   title = "with subitems"
+# 
+#     [[entries.entries.entries]]
+#     title = "with subsubitems"
+# 
+#     [[entries.entries.entries]]
+#     title = "example page"
+#     url = "about"
+# [[entries]]
+# title = "PRO TIP"
+# entries = [
+#    { title = "to edit this menu, edit data/menu.toml file" }
+#   ]

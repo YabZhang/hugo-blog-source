@@ -1,4 +1,8 @@
 baseURL = 'https://yabzhang.github.io/'
 languageCode = 'zh-cn'
-title = 'yabinzhang blog'
+title = 'yabzhang'
 theme = 'nostyleplease'
+[taxonomies]
+  category = 'categories'
+  series = 'series'
+  tag = 'tags'
