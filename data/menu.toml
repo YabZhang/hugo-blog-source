@@ -2,21 +2,21 @@
 title = "About"
 
   [[entries.entries]]
-  title = "He/Him|UTC+8|Coder|MangaFan||Hungry&Foolish"
+  title = "他/He|UTC+8|Anime&Computer|Explore&Enjoy"
   [[entries.entries]]
   title = "Email:\t<a href='mailto:yabzhang2015@gmail.com'>yabzhang2015@gmail.com</a>"
   [[entries.entries]]
-  title = "Github:\t<a href='https://github.com/yabzhang'>github.com/yabzhang</a>"
+  title = "Github:\t<a href='https://www.github.com/yabzhang'>www.github.com/yabzhang</a>"
   [[entries.entries]]
   title = "Motto:\tDon't go gentle into that good night!"
 
 
 [[entries]]
-title = "Index"
+title = "Taxonomy"
 
   [[entries.entries]]
-  title = "Series"
-  url = "/series/"
+  title = "WeeklyReport"
+  url = "/series/weeklyreport/"
 
   [[entries.entries]]
   title = "Categories"
