@@ -11,6 +11,15 @@ tags:
     - nsswitch
 ---
 
+- [1. /etc/hosts](#1-etchosts)
+- [2. /etc/resolv.conf](#2-etcresolvconf)
+- [3. /etc/nsswitch.conf](#3-etcnsswitchconf)
+- [4. 总结](#4-总结)
+- [5. 参考资料](#5-参考资料)
+
+----
+
+
 本文介绍三个 Linux 上的 DNS 相关的配置文件，分别是`/etc/hosts`, `/etc/resolv.conf` 和 `/etc/nsswitch.conf` 。
 
 ## 1. /etc/hosts
