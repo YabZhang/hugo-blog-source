@@ -4,6 +4,7 @@ date: 2023-05-28T14:55:01+08:00
 draft: false
 categories:
     - linux
+    - network
     - dns
 tags:
     - hosts
