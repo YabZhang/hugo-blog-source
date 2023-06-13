@@ -1,10 +1,10 @@
 ---
 title: "iptables 笔记"
-date: 2023-05-28T15:20:20+08:00
+date: 2023-05-29T15:20:20+08:00
 draft: false
 categories:
     - linux
-    - networking
+    - network
     - firewall
 tags:
     - iptables
