@@ -10,6 +10,10 @@ title = "About"
   [[entries.entries]]
   title = "Motto:\tDon't go gentle into that good night!"
 
+[[entries]]
+title = "Tags"
+url = "/tags/"
+
 
 [[entries]]
 title = "Subjects"
@@ -21,10 +25,6 @@ title = "Subjects"
   [[entries.entries]]
   title = "reports"
   url = "/series/report/"
-
-  [[entries.entries]]
-  title = "tags"
-  url = "/tags/"
 
 [[entries]]
 title = "Posts"
