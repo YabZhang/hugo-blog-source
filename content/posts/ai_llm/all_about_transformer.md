@@ -1,5 +1,5 @@
 ---
-title: "all_about_transformers"
+title: "all_about_transformer"
 date: 2025-01-06T00:09:23+08:00
 draft: true
 series:
